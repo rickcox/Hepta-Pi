@@ -7,7 +7,7 @@ which has 1 external connector.  The overall board size is 150X150mm.   The whol
 
 I had initially conceived this as a CPU based crypto curency miner, but I later discovered that the ARM 
 based CM4 boards and their competitors are not very effective crypto miners. 
-So this is left as a generic compute cluster, or ??????
+So this is left as a generic compute cluster, with workload controlled by something like Kubernetes.
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
