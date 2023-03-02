@@ -1,5 +1,5 @@
 # Hepta-Pi
-This is a Compute Cluser of 7 Raspberrry Pi CM4 sized boards. One of the boards (Module 0) has a
+This is a PCB supporting a Compute Cluser of 7 Raspberrry Pi CM4 sized boards. One of the boards (Module 0) has a
 fairly full compliment of I/O. Boards 1-4, also mounted on the top, have an HDMI and a single USB
 port, so can be debugged with a keyboard and monitor.  Boards 5-6 are mounted on the bottom,
 and have a bare minimum of I/O.  All 7 boards are connected to an on-board 1G ethernet switch,
