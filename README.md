@@ -1,5 +1,13 @@
 # Hepta-Pi
-Compute Cluser of 7 Raspberrry Pi CM4 sized boards
+This is a Compute Cluser of 7 Raspberrry Pi CM4 sized boards. One of the boards (Module 0) has a
+fairly full.compliment of I/O. Boards 1-4, mounted on the top, have HDMI and a single USB
+port, so can be debugged with a keyboard and monitor.  Boards 5-6 are mounted on the bottom,
+and have a bare minimum of I/O.  All 7 boards are connected to an on-board 1G ethernet switch,
+which has 1 external connector.
+
+I had initially conceived this as a CPU based crypto curency miner, but I later discovered that the ARM 
+based CM4 boards and their competitors are not very effective crypto miners. 
+So this is left as a generic compute cluster, or ??????
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
