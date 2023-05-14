@@ -1,0 +1,42 @@
+# rick@Triton2:~/boards$ my-kicad-plugins/jlc-kicad-tools -v ./Hepta-Pi_1.1 -o ./Hepta-Pi_1.1/jlcpcb/ 
+[INFO] Netlist file found at: /mnt/sebastian-rick/boards/Hepta-Pi_1.1/Hepta-Pi_1.1.xml
+[INFO] CPL file found at: /mnt/sebastian-rick/boards/Hepta-Pi_1.1/bom/Hepta-Pi_1.1-all-pos.csv
+[INFO] Read 57 rules from /home/rick/.local/lib/python3.10/site-packages/jlc_kicad_tools/cpl_rotations_db.csv
+[INFO] 69 component groups found from BOM file.
+[INFO] Footprint SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm matched ^SOIC-. Applying 270 deg correction
+[INFO] Footprint BAT_S8411-45R matched ^BAT_S8411. Applying 90 deg correction
+[INFO] Footprint CP_EIA-3528-21_Kemet-B matched ^CP_EIA-. Applying 180 deg correction
+[INFO] Footprint CP_EIA-3528-21_Kemet-B matched ^CP_EIA-. Applying 180 deg correction
+[INFO] Footprint SOT-23 matched ^SOT-23. Applying 180 deg correction
+[INFO] Footprint Diodes_PowerDI3333-8 matched ^Diodes_PowerDI3333-8. Applying 270 deg correction
+[INFO] Footprint USON-10_2.5x1.0mm_P0.5mm matched ^USON-10. Applying 270 deg correction
+[INFO] Footprint USON-10_2.5x1.0mm_P0.5mm matched ^USON-10. Applying 270 deg correction
+[INFO] Footprint USON-10_2.5x1.0mm_P0.5mm matched ^USON-10. Applying 270 deg correction
+[INFO] Footprint USON-10_2.5x1.0mm_P0.5mm matched ^USON-10. Applying 270 deg correction
+[INFO] Footprint SOT-23-6 matched ^SOT-23. Applying 180 deg correction
+[INFO] Footprint SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm matched ^SOIC-. Applying 270 deg correction
+[INFO] Footprint SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm matched ^SOIC-. Applying 270 deg correction
+[INFO] Footprint SOT-353_SC-70-5 matched ^SOT-353. Applying 180 deg correction
+[INFO] Footprint SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm matched ^SOIC-. Applying 270 deg correction
+[INFO] Footprint SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm matched ^SOIC-. Applying 270 deg correction
+[INFO] Footprint SOT-353_SC-70-5 matched ^SOT-353. Applying 180 deg correction
+[INFO] Footprint SOT-353_SC-70-5 matched ^SOT-353. Applying 180 deg correction
+[INFO] Footprint SOT-353_SC-70-5 matched ^SOT-353. Applying 180 deg correction
+[INFO] Footprint SOT-353_SC-70-5 matched ^SOT-353. Applying 180 deg correction
+[INFO] Footprint SOT-353_SC-70-5 matched ^SOT-353. Applying 180 deg correction
+[INFO] Footprint SOT-353_SC-70-5 matched ^SOT-353. Applying 180 deg correction
+[INFO] Footprint LQFP-128_14x20mm_P0.5mm matched ^LQFP-. Applying 270 deg correction
+[INFO] Footprint SOT-353_SC-70-5 matched ^SOT-353. Applying 180 deg correction
+[INFO] Footprint SOT-23-5 matched ^SOT-23. Applying 180 deg correction
+[INFO] Footprint SOT-353_SC-70-5 matched ^SOT-353. Applying 180 deg correction
+[INFO] Footprint SOT-23-6 matched ^SOT-23. Applying 180 deg correction
+[INFO] Footprint QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm matched ^QFN-. Applying 270 deg correction
+[INFO] Footprint SOT-353_SC-70-5 matched ^SOT-353. Applying 180 deg correction
+[INFO] Footprint SOT-23-6 matched ^SOT-23. Applying 180 deg correction
+[INFO] Footprint USON-10_2.5x1.0mm_P0.5mm matched ^USON-10. Applying 270 deg correction
+[INFO] Footprint SOIC-8_3.9x4.9mm_P1.27mm matched ^SOIC-. Applying 270 deg correction
+[INFO] Footprint USON-10_2.5x1.0mm_P0.5mm matched ^USON-10. Applying 270 deg correction
+[INFO] Footprint SOT-353_SC-70-5 matched ^SOT-353. Applying 180 deg correction
+[INFO] JLC BOM file written to: /mnt/sebastian-rick/boards/Hepta-Pi_1.1/jlcpcb/Hepta-Pi_1.1_bom_jlc.csv
+[INFO] JLC CPL file written to: /mnt/sebastian-rick/boards/Hepta-Pi_1.1/jlcpcb/Hepta-Pi_1.1_cpl_jlc.csv
+

@@ -1,0 +1,65 @@
+PCB statistics report
+=====================
+- Date: Mon 24 Apr 2023 01:27:32 PM PDT
+- Project: Hepta-Pi_1.1
+- Board name: Hepta-Pi_1.1
+
+Board
+-----
+- Width: 150.0000 mm
+- Height: 150.0000 mm
+- Area: 22486.1848 mm²
+
+Pads
+----
+- Through hole: 214
+- SMD: 4181
+- Connector: 14
+- NPTH: 36
+
+Vias
+----
+- Through vias: 2455
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |         23 |         1 |    24 |
+|SMD:          |        309 |       101 |   410 |
+|Unspecified:  |         48 |        12 |    60 |
+|Total:        |        380 |       114 |   494 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|  1457 | Round | 0.3000 mm | 0.3000 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|   531 | Round | 0.4500 mm | 0.4500 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|   467 | Round | 0.2500 mm | 0.2500 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|   106 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    28 | Round | 2.7000 mm | 2.7000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|    16 | Round | 1.5000 mm | 1.5000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    16 | Round | 0.9200 mm | 0.9200 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    14 | Round | 0.4000 mm | 0.4000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    14 | Round | 0.9000 mm | 0.9000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    10 |  Slot | 0.9000 mm | 2.7000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    10 |  Slot | 0.9000 mm | 1.7000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     8 | Round | 1.0200 mm | 1.0200 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     5 | Round | 3.2000 mm | 3.2000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 |  Slot | 0.6000 mm | 1.6000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 2.3000 mm | 2.3000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 1.7000 mm | 1.7000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 1.1000 mm | 1.1000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 2.8000 mm | 2.8000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 |  Slot | 1.0000 mm | 3.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 3.2000 mm | 3.2000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     1 | Round | 1.1500 mm | 1.1500 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     1 | Round | 1.6500 mm | 1.6500 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     1 | Round | 1.0500 mm | 1.0500 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     1 | Round | 1.3000 mm | 1.3000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot | 3.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
