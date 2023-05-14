@@ -9,8 +9,9 @@ I had initially conceived this as a CPU based crypto curency miner, but I later 
 based CM4 boards and their competitors are not very effective crypto miners. 
 So this is left as a generic compute cluster, with workload controlled by something like Kubernetes, Ansible, or Univa Grid Engine.
 
-Here is the top view:
-![Top View of the Board](doc/Hepta-Pi_1.1_TOP.png)
+Here is the top view with and without CM's:
+![Top View with CMs](doc/Hepta-Pi_1.1_TOP.png)
+![Top View no CMs](doc/Hepta-Pi_1.1_TOP-noCM.png)
 
 Note that CM0 is on theop and has the following peripherals:
  4 USB connectors - 2 on a connector, and 2 on headers
@@ -29,10 +30,18 @@ CM1,2,3, and 4 are also on the top with the following peripherals:
   1 HDMI port
   A dedicated header for the serial debug port and an induvudual reset
   
-And here is a bottom view"
-![Bottom View of the Board](doc/Hepta-Pi_1.1-BOT2.png)
+And here is a bottom view:
+![Bottom View with CMs](doc/Hepta-Pi_1.1-BOT2.png)
+![Bottom View no CMs](doc/Hepta-Pi_1.1-BOT-noCM.png)
 
 CM5 and 6 have only the dedicated header for the serial debug port and an indivdual reset
+
+
+
+Common to everything is an RTL8370 based 1G ethernet switch, and a single ethernet port for all CM's.
+There is a single 12V Barrel Connector for the board, and of course power supplies for all.
+
+
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
