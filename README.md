@@ -10,7 +10,7 @@ based CM4 boards and their competitors are not very effective crypto miners.
 So this is left as a generic compute cluster, with workload controlled by something like Kubernetes, Ansible, or Univa Grid Engine.
 
 Here is the top view:
-![Top View of the Board](doc/Hepta-Pi_1.1_TOP-noCM.png)
+![Top View of the Board](doc/Hepta-Pi_1.1_TOP.png)
 
 Note that CM0 is on theop and has the following peripherals:
  4 USB connectors - 2 on a connector, and 2 on headers
