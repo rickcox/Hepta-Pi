@@ -30,7 +30,7 @@ CM1,2,3, and 4 are also on the top with the following peripherals:
   A dedicated header for the serial debug port and an induvudual reset
   
 And here is a bottom view"
-![Top View of the Board](doc/Hepta-Pi_1.1_BOT2.png)
+![Bottom View of the Board](doc/Hepta-Pi_1.1-BOT2.png)
 
 CM5 and 6 have only the dedicated header for the serial debug port and an indivdual reset
 
